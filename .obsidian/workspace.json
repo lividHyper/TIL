@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "0e159f07103c7293",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9feade4d0807185",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9440d114944e4532",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d3e54f77a1afff2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "14d7f4d9aca00a35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "473a4f4ca004151a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6fa8883453b54bb7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "90882a79d77d3129",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f09a037d9792ab72",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a68700bbaf2452c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "067bca7e7b62e190",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "207b404b2e63c0b2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ddf38b39af136ad8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "79bed7620d13dce5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "9440d114944e4532",
+  "lastOpenFiles": [
+    "Obsidian/调整你的图片大小.md",
+    "2023-11-19.md",
+    "Mac/整理你的 iCloud 空间.md",
+    "static/Pasted image 20231119143054.png",
+    "Obsidian",
+    "static/iOS-off-photo-sync.jpeg",
+    "static/iCloud-fullstorage.png",
+    "static",
+    "Mac"
+  ]
+}
