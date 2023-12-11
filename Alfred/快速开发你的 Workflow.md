@@ -53,4 +53,4 @@ print(json.dumps(result))
 
 
 ## 3. Action 
-![[alfred_workflow_dev.png]]
+![[../static/alfred_workflow_dev.png]]

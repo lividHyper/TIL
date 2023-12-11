@@ -3,4 +3,4 @@
 
 
 然后你就可以在 Mac 的Obsidian中打开本地仓库，然后选择 iCloud 目录中对应的仓库，并愉快的编写了, 当然如果你的 iCloud空间不足，你可以参考这篇文章[[整理你的 iCloud 空间]] 。
-![[iCloud-Obsidian-dir.png]]
+![[../static/iCloud-Obsidian-dir.png]]
